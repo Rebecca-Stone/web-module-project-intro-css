@@ -191,14 +191,15 @@ nav a {
     width: 55%;
     margin-left: 5%;
     text-align: center;
-    line-height: 3;
+    line-height: 2;
     position: absolute;
-    top: 100px;
+    top: 90px;
 }
 .pinkBox {
   background-color: #ddb9a3;
   color: white;
   padding: 2%;
+  text-align: center;
 }
 i{
     padding: 5%;
